@@ -4,9 +4,6 @@ body{
     font-weight: 400, 700;
     font-family: 'Outfit', sans-serif;
     background-color:  hsl(212, 45%, 89%);
-    margin: 0px;
-    
-
 }
 
 .para2{
@@ -15,7 +12,9 @@ body{
 }
 
 .attribution { 
-    font-size: 11px; text-align: center; 
+    font-size: 11px; 
+    text-align: center;
+    margin-top: 5rem;
     color: hsl(228, 45%, 44%);
 }
 
@@ -23,8 +22,11 @@ diV.image{
     background-color: hsl(0, 0%, 100%);;
     border: 10px solid hsl(0, 0%, 100%);
     border-radius: 15px;
-    margin: 35rem 35rem;
-    padding: 5px;
+    height: 22%;
+    width: 22%;
+    padding: 2px;
+    text-align: center;
+    margin: 2rem auto;
      
 }
 
@@ -34,11 +36,7 @@ div.image img{
     border-radius: 10px;
 }
 
-
-
 div.para{
     padding: 15px;
     text-align: center;
 }
-
-
